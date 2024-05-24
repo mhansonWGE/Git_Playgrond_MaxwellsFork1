@@ -16,6 +16,11 @@
 obj/
 /bin/
 
+ *.exe
+ *.dll
+ *.pdb
+ 
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
